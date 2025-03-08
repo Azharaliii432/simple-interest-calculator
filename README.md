@@ -1,2 +1,1 @@
-# simple-interest-calculator
-Calculate the Interest
+"Heyyy" 
